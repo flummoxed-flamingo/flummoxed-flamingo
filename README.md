@@ -1,4 +1,7 @@
-## Hi there 👋
+## about me...
+
+I am *trying* to learn how to code\
+fun fact: a group of flamingoes is called a flamboyance 🦩🦩🦩
 
 <!--
 **flummoxed-flamingo/flummoxed-flamingo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
